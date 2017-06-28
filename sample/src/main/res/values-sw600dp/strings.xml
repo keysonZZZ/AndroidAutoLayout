@@ -4,6 +4,4 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_test">TestActivity</string>
-    <!--<string name="design_width">540</string>-->
-    <!--<string name="design_height">960</string>-->
 </resources>
